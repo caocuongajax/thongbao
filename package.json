@@ -9,7 +9,8 @@
   "author": "CaoCuong <bcc2qm@yahoo.com>",
   "license": "BCL",
   "dependencies": {
-    "socket.io": "1.3.5",
-    "express": "4.12.3"
+    "express": "^4.9.0",
+    "lodash-node": "^2.4.1",
+    "socket.io": "^1.1.0"
   }
 }
